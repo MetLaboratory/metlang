@@ -1,0 +1,25 @@
+#!/usr/bin/env ruby
+# -*- coding: utf-8 -*-
+
+require 'r-fxxk'
+
+class Met < Brainfuck
+  # >
+  nxt "にゃうね"
+  # +
+  inc "にゃう"
+  # <
+  prv "にゃん"
+  # -
+  dec "にゃ？"
+  # [
+  opn "ポチった"
+  # ]
+  cls "ねる"
+  # .
+  put "これになりたい"
+  # ,
+  get "これすき"
+end
+
+puts Met.new.fuck(ARGF.read)
