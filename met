@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 # -*- coding: utf-8 -*-
 
-require 'r-fxxk'
+require_relative './r-fxxk/lib/r-fxxk'
 
 class Met < Brainfuck
   # >
