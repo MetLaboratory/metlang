@@ -1,6 +1,11 @@
 # プログラミング言語 Met
 プログラミング言語として働く Met さん
 
+## 注意
+現在は metlang-rs の使用を推奨しています。
+
+[https://github.com/yoh2/metlang-rs](https://github.com/yoh2/metlang-rs "metlang-rs Link")
+
 ## 説明
 Brainfuck系言語です
 
